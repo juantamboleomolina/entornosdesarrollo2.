@@ -1,5 +1,5 @@
 ---
-name: ".gitignore"
+name: gitignore
 about: Ignore files
 title: ''
 labels: ''
